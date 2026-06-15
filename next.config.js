@@ -2,7 +2,8 @@
 const nextConfig = {
   output: 'export',
   distDir: 'docs',
-  assetPrefix: '.',
+  basePath: '/historia-aparatow',
+  assetPrefix: '/historia-aparatow',
   images: {
     unoptimized: true
   }
