@@ -14,7 +14,7 @@ export default function Home() {
         'Artyści renesansowi (w tym Vermeer) używali camera obscura do precyzyjnego szkicowania',
         'Dopiero w 1685 roku Johann Zahn zaprojektował pierwszy przenośny model',
       ],
-      image: '/images/01-camera-obscura.webp',
+      image: 'images/01-camera-obscura.webp',
       imageAlt: 'Camera obscura - ciemnia optyczna z epoki renesansu',
     },
     {
@@ -29,7 +29,7 @@ export default function Home() {
         'Pierwsza praktyczna metoda fotografii komercyjnej',
         '19 sierpnia 1839 — oficjalna prezentacja Akademii Nauk w Paryżu',
       ],
-      image: '/images/02-daguerreotype.webp',
+      image: 'images/02-daguerreotype.webp',
       imageAlt: 'Aparat do dagerotypii z 1839 roku',
     },
     {
@@ -44,7 +44,7 @@ export default function Home() {
         'Założenie Eastman Kodak Company w 1892 roku',
         'Podwaliny pod przemysł fotograficzny XX wieku',
       ],
-      image: '/images/03-kodak-brownie.webp',
+      image: 'images/03-kodak-brownie.webp',
       imageAlt: 'Kodak Brownie - aparat dla mas',
     },
     {
@@ -59,7 +59,7 @@ export default function Home() {
         'Ikony fotografii: Henri Cartier-Bresson, Robert Capa, Alfred Eisenstaedt',
         'Do dziś Leica pozostaje symbolem prestiżu i rzemiosła',
       ],
-      image: '/images/04-leica.webp',
+      image: 'images/04-leica.webp',
       imageAlt: 'Leica I z 1925 roku - ikona fotografii',
     },
     {
@@ -74,7 +74,7 @@ export default function Home() {
         'Pierwsze zdjęcie: Joyce, asystentka Sassona, w laboratorium Kodaka',
         'Kodak ukrył technologię przez lata — bał się kanibalizacji filmu',
       ],
-      image: '/images/05-digital-prototype.webp',
+      image: 'images/05-digital-prototype.webp',
       imageAlt: 'Pierwszy aparat cyfrowy Kodaka z 1975',
     },
     {
@@ -89,7 +89,7 @@ export default function Home() {
         'Computational photography: HDR, stacking, astrophotography modes',
         'Smartfony zastępują kompakty, profesjonalne bezlusterkowe rosną',
       ],
-      image: '/images/06-modern-mirrorless.webp',
+      image: 'images/06-modern-mirrorless.webp',
       imageAlt: 'Współczesny aparat bezlusterkowy',
     },
   ];
